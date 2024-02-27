@@ -8,7 +8,7 @@ Become a Machine Learning expert. Master the fundamentals of deep learning and b
 
 ---
 
-![](Specialization_Certificate.png)
+![](no_Certificate_yet.png)
 
 ---
 
